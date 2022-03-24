@@ -1,0 +1,37 @@
+body {
+background: #2196f3;
+background: -webkit-linear-gradient(to right, #f44336, #2196f3);
+background: linear-gradient(to right, #f44336, #2196f3);
+  /* gradient from https://uigradients.com/ */
+  color: white;
+  font-family: Verdana, Geneva, sans-serif;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+hr {
+  width: 10%;
+  border: 10px dotted;
+  border-style: none none dotted;
+  color: lightgrey
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#playAgain {
+  display: none;
+}
+h3 {
+  text-align: center;
+}
+.container1 {
+  text-align: center;
+}
+#easy {
+  display: none;
+}
